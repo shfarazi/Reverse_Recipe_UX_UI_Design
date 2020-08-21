@@ -26,6 +26,6 @@ to deliver a high-fidelity interactive prototype and bring our vision to life.
 * Assignment #6: W8 - Prototype
 * Assignment #7: W10 - Final Project Presentation 
 
-**Link to our Figma Prototype:** https://www.figma.com/proto/qJ8IpF9D2uCxRwrS5ZZ8Xe/Reverse-Recipe-(UI%2FUX-Design)?node-id=317%3A2928&viewport=742%2C301%2C0.12101712822914124&scaling=scale-down
+**[Link to our Figma Prototype](https://www.figma.com/proto/qJ8IpF9D2uCxRwrS5ZZ8Xe/Reverse-Recipe-(UI%2FUX-Design)?node-id=317%3A2928&viewport=742%2C301%2C0.12101712822914124&scaling=scale-down)**
 
 
