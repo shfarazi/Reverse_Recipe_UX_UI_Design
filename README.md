@@ -1,8 +1,15 @@
 # UI/UX Design - Reverse Recipe Project
 
-In CS 352: Intro to Usability Engineering (UI/UX Design) at the Oregon State University (OSU), I participated in a class wide group project where we first came up with project proposals as a team. 
-My proposed idea of Reverse Recipe was accepted, and therefore, I was selected as project leader.
-Reverse Recipe was born as a result of my friends goals to spend less money not only by reducing eating out less, but also efficiently using the already available ingredients in their pantry. 
+* Design: wireframes, prototypes, and storyboards using Figma, Miro, and other related tools
+* User Studies: performed formal user studies and usability research 
+* Implementation: developed UI for web and mobile applications 
+
+* Reverse Recipe: UI/UX design and research, using Figma, of a cross-platform app and web service that
+aims to revolutionize home cooking by better utilizing ingredients already present at home.
+
+In CS 352: Intro to Usability Engineering (UI/UX Design) at the Oregon State University (OSU), I participated in a class wide group project where we first came up with project proposals as a team. My proposed idea of Reverse Recipe was accepted, and therefore, I was selected as the project leader.
+
+* Reverse Recipe was born as a result of my friends goals to spend less money not only by reducing eating out less, but also efficiently using the already available ingredients in their pantry. 
 
 Team members:
 
